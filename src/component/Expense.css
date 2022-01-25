@@ -1,0 +1,21 @@
+.block{
+    margin: 0 auto;
+    height: 800px; 
+    background-image: url(https://mirpozitiva.ru/wp-content/uploads/2019/11/1472042903_31.jpg);
+
+}
+.const{
+    width: 400px;
+    height: 400px;
+    background-color: #5f9ea0; 
+    margin: 0 auto;
+    border: 2px solid black;
+    border-radius: 50px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+     position: relative;
+     top: 80px;
+ }
+ .block2{
+     margin-top: 200px;
+ }
+
